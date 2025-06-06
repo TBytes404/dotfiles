@@ -1,0 +1,13 @@
+shell-integration = zsh
+copy-on-select = clipboard
+
+font-family = CascadiaCode
+font-size = 15
+font-style-bold = true
+
+macos-titlebar-style = hidden
+unfocused-split-opacity = 1
+
+theme = gruvbox-material
+background-opacity = 0.85
+background-blur = 20
